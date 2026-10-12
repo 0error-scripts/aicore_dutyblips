@@ -3,7 +3,7 @@ game 'gta5'
 
 name 'aicore_dutyblip'
 description 'Duty blips for Aicore'
-repository 'https://github.com/0error-scripts/aicore_dutyblips'
+repository 'https://github.com/aicore-fivem/aicore_dutyblips'
 version '1.0.0'
 
 shared_script '@ox_lib/init.lua'
